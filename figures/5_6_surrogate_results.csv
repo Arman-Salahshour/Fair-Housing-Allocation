@@ -1,0 +1,5 @@
+Algorithm,Stump feature,Stump accuracy,Stump F1,Tree(d=3) accuracy,Tree(d=3) F1,Logistic accuracy,Logistic F1
+A1,financial_need_score,0.982,0.964,0.982,0.964,0.98,0.961
+A2,financial_need_score,0.91,0.888,0.941,0.924,0.946,0.932
+A3,financial_need_score,0.819,0.682,0.877,0.808,0.919,0.859
+A4,financial_need_score,0.858,0.742,0.929,0.862,0.992,0.984
