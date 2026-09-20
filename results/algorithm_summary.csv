@@ -1,0 +1,5 @@
+Method,Accuracy,Precision,Recall,F1,fairness checks passed (of 6),complexity character
+A1,0.788,0.76,0.575,0.655,2,simplest (dominated by 1 feature)
+A2,0.808,0.698,0.793,0.743,2,moderate (1-2 features)
+A3,0.828,0.804,0.671,0.731,3,"high, messy (not fully captured even by a linear model)"
+A4,0.848,0.879,0.655,0.75,1,"high, clean (fully captured by a linear combination)"
